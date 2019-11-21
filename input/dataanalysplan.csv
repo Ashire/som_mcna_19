@@ -1,4 +1,0 @@
-research.question,sub.research.question,hypothesis.testing,dependent.variable,dependent.variable.type,independent.variable,independent.variable.type,hypothesis,repeat.for.variable
-education m/f,access,does male have beter access?,access_school,categorical,resp_gender,categorical,group_difference,district
-education m/f,barrier,does male have beter access?,school_barrier_first,categorical,resp_gender,categorical,group_difference,district
-education m/f,attedance,does male have beter access?,attend_total,numerical,resp_gender,categorical,group_difference,district
