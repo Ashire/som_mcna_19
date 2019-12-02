@@ -1,3 +1,4 @@
+#edited by Moh
 pin_calculation <- function(data) {
   lookup_table <- 
     data.frame("1" = c(1,1,2,2,3),
